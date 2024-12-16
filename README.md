@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jeelSavsani001
 - 👀 I’m interested in learning ML and app dev
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on with my seniors
+- 🌱 I’m currently learning Competitive Programming 
+- 💞️ I’m looking to collaborate with my seniors
 - 📫 How to reach me jeelsavsani20002155@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: sky is blue
